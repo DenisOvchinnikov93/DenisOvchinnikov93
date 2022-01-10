@@ -8,6 +8,8 @@ I am also a Software Developer Intern at Castle Point Learning Systems.
 
 I am planning to switch to a full-time programming and/or data science job in the near future.
 
+Outside of work my main hobby is rock climbing (indoors and outdoors). 
+
 ### Research
 My research is focused on the intersection between abstract algebra (think matrices with integer elements), probability theory and complexity theory. Some of the topics that I worked on are: random structures in group theory, in particular random matrices and their properties; algorithmic problems in matrix groups. You can see list of my publications and preprints on [ArXiv](https://arxiv.org/search/math?searchtype=author&query=Ovchinnikov%2C+D).
 
