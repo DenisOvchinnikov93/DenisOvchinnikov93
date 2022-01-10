@@ -24,4 +24,4 @@ I really enjoy teaching and helping people to discover and master new things. Ov
 
 ### Climbing 
 
-Outside of work my main hobby is rock climbing (indoors and outdoors). I love the creative aspect of it, as well as travelling and meeting new people. Let me know if you are in NYC/NJ area and want to climb or just hang out!
+Outside of work my main hobby is rock climbing (indoors and outdoors). I love the creative aspect of it, as well as travelling and meeting new people. I mostly boulder in the northeast, but also travel further and rope climb when I get a chance. Let me know if you are in NYC/NJ area and want to climb or just hang out!
