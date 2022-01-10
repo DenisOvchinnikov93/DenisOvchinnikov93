@@ -10,7 +10,7 @@ I am planning to switch to a full-time programming and/or data science job in th
 My research is focused on the intersection between abstract algebra (think matrices with integer elements), probability theory and complexity theory. Some of the topics that I worked on are: random structures in group theory, in particular random matrices and their properties; algorithmic problems in matrix groups. You can see list of my publications and preprints on [ArXiv](https://arxiv.org/search/math?searchtype=author&query=Ovchinnikov%2C+D).
 
 ### Programming
-Since a big part of my research is focused on algorithmic complexity, I am profficient in coding efficient solutions of complex numerical problems. I have over 10 years of programming experience. Currently I do most of my programming in Python, but I used to code in C++ in the past. I also participated in three Google Kickstart rounds in 2021 finishing in top 25% of competitors each time. I uploaded my solutions to some of the rounds on [github](https://github.com/DenisOvchinnikov93/Google-kickstart-2021-e-all-problems-python).
+Since a big part of my research is focused on algorithmic complexity, I am profficient in coding efficient solutions of complex numerical problems. I have over 10 years of programming experience. Currently I do most of my programming in Python, but I used to code in C++ in the past. I also participated in three Google Kickstart rounds in 2021 finishing in the top 25% of competitors each time. I uploaded my solutions to some of the rounds on [github](https://github.com/DenisOvchinnikov93/Google-kickstart-2021-e-all-problems-python).
 
 See my [Sudoku](https://github.com/DenisOvchinnikov93/Sudoku#readme) project for an example of a bigger project I completed. 
 
