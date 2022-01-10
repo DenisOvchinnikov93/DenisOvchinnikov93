@@ -15,3 +15,6 @@ See my [Sudoku](https://github.com/DenisOvchinnikov93/Sudoku) project for an exa
 
 ### Data Science
 Last two years I've been also interested in data science and quatitative analysis. It really fascianates to me how much useful information can be scraped from data, and how this information can be used to improve real-life businesses and customer experience. I have done multiple projects both in classical data science (mostly supervised learning), and in quatitative analysis. I plan to share some of them once I get an ok from the relevant parties to publish the results.
+
+### Teaching
+I really enjoy teaching and helping people to discover and master new things. Over the last 10 years, I taught olimpiad math and various undergraduate and graduate courses, including several joint CS/Math courses.
