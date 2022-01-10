@@ -1,8 +1,6 @@
 ## Hello! 
 
-My name is Denis Ovchinnikov.
-
-I have a PhD in mathematics (2020) and I currently work as a professor of Mathematics at Stevens Institute of Technology.
+My name is Denis Ovchinnikov. I have a PhD in mathematics (2020) and I currently work as a professor of Mathematics at Stevens Institute of Technology.
 
 I am also a Software Developer Intern at Castle Point Learning Systems.
 
