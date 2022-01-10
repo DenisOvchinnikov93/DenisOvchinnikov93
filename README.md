@@ -1,9 +1,12 @@
 ## Hello! 
 
 My name is Denis Ovchinnikov.
-I got my PhD in mathematics in 2020 and currently work as a professor of Mathematics at Stevens Institute of Technology, with interests in software development and data science. 
+
+I have a PhD in mathematics (2020) and I currently work as a professor of Mathematics at Stevens Institute of Technology.
 
 I am also a Software Developer Intern at Castle Point Learning Systems.
+
+I am planning to switch to a full-time programming and/or data science job in the near future.
 
 ### Research
 My research is focused on the intersection between abstract algebra (think matrices with integer elements), probability theory and complexity theory. Some of the topics that I worked on are: random structures in group theory, in particular random matrices and their properties; algorithmic problems in matrix groups. You can see list of my publications and preprints on [ArXiv](https://arxiv.org/search/math?searchtype=author&query=Ovchinnikov%2C+D).
